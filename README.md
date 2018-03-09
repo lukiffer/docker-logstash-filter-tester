@@ -1,6 +1,7 @@
 # Docker based logstash filter tester
 
 * Inspired from
+  * https://gquintana.github.io/2016/09/07/Testing-Logstash-configuration.html
   * https://github.com/pgporada/rspec-logstash-filter
   * https://discuss.elastic.co/t/how-to-run-rspec-tests-in-logstash-5-0-0/64895
 
